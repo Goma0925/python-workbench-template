@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python-workbench"
+name = "app"
 version = "0.1.0"
 description = ""
 authors = ["Amon Otsuki <aotsuki@meteomatics.com>"]
@@ -7,7 +7,6 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-app = "^0.0.1"
 black = "^24.10.0"
 
 
