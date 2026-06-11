@@ -1,0 +1,3 @@
+from .paths import INPUT_DIR, OUTPUT_DIR, PROJECT_ROOT
+
+__all__ = ["INPUT_DIR", "OUTPUT_DIR", "PROJECT_ROOT"]
