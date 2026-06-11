@@ -41,7 +41,7 @@ Add a runtime dependency when an experiment needs it:
 uv add pandas          # adds to [project].dependencies
 uv add --dev ruff      # adds to [dependency-groups].dev
 ```
-
+`
 ### How to run scripts
 
 Put experiment entry points in `scripts/`. Each script is a standalone file you run directly.
